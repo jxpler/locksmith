@@ -1,2 +1,2 @@
 # locksmith
- a simple password generator made with tkinter
+ a password generator made with tkinter
